@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="Demo Application" />
       <item value="Delegating Message Source" />
       <item value="is Trace Enabled" />
       <item value="trace" />
@@ -33,7 +34,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618189298791" />
+    <option name="lastTrimTime" value="1618634894254" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
